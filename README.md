@@ -1,5 +1,3 @@
-<img display="block" margin="auto" width="100%" src="https://media.licdn.com/dms/image/D4E12AQHdGdGivBWJKg/article-cover_image-shrink_600_2000/0/1659966566032?e=2147483647&v=beta&t=t0lGWoNGuolIpONX9UfxbNTMqqJqiVX9sHoOY6HhTsg" />
-
 <h1 align="center">Hi 👋, I'm Vinnn</h1>
 <h3 align="center">A passionate full stuck developer from Indonesia</h3>
 
