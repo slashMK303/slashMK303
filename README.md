@@ -60,6 +60,8 @@
 
 ###
 
-<br clear="both"/>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/slashMK303/slashMK303/output/snake.svg" alt="Snake animation" />
 
 ###
