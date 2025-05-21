@@ -60,7 +60,7 @@
 
 ###
 
-<br clear="both">
+<!--<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slashMK303/slashMK303/output/pacman-contribution-graph-dark.svg">
@@ -70,7 +70,7 @@
 
 ###
 
-<!--<img src="https://raw.githubusercontent.com/slashMK303/slashMK303/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/slashMK303/slashMK303/output/snake.svg" alt="Snake animation" />
 
 ###
 
